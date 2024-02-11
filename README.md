@@ -17,8 +17,8 @@ This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 
 ## 📎 Links
 
-- Solution folder : [Github repository](https://github.com/phuuthanh2003/ShopeeUI)
-- Demo : [Github page](https://clone-shopee-chu1xwiv3-phuuthanh2003s-projects.vercel.app)
+- Solution folder : [Github repository](https://github.com/phuuthanh2003/Clone_ShopeeUI)
+- Demo : [Github page](https://phuuthanh2003.github.io/Clone_ShopeeUI/)
 
 ## ✔️ License & Copyright
 &copy; 2024 Phung Huu Thanh Licensed under the [MIT LICENSE](https://github.com/phuuthanh2003/Clone_ShopeeUI/blob/master/LICENSE).
