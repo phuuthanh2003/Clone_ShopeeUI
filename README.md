@@ -3,7 +3,7 @@
 This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 
 ## ✍ Description
-- The practice of using `HTML`, `CSS` and `Javascrip` for web design.
+- The practice of using `HTML` and `CSS` for web design.
 
 ## 💻 Technology
 - HTML
@@ -18,9 +18,9 @@ This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 ## 📎 Links
 
 - Solution folder : [Github repository](https://github.com/phuuthanh2003/ShopeeUI)
-- Demo : [Github page](https://github.com/phuuthanh2003/ShopeeUI)
+- Demo : [Github page](https://clone-shopee-chu1xwiv3-phuuthanh2003s-projects.vercel.app)
 
 ## ✔️ License & Copyright
-&copy; 2024 Phung Huu Thanh Licensed under the [GPL-3.0 LICENSE](https://github.com/phuuthanh2003/ShopeeUI/tree/main).
+&copy; 2024 Phung Huu Thanh Licensed under the [MIT LICENSE](https://github.com/phuuthanh2003/Clone_ShopeeUI/blob/master/LICENSE).
 
 > :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:
