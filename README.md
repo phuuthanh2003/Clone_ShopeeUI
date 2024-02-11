@@ -12,8 +12,8 @@ This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 ## 📸 Preview Screenshot
 ![Laptop Demo 1](./assets/img/demo/demo1.png)
 ![Laptop Demo 2](./assets/img/demo/demo2.png)
-![Laptop Demo 3](./assets/img/demo/demo3.png)
-![Laptop Demo 4](./assets/img/demo/demo4.png)
+![Laptop Demo 3](./assets/img/demo/demo3.PNG)
+![Laptop Demo 4](./assets/img/demo/demo4.PNG)
 
 ## 📎 Links
 
